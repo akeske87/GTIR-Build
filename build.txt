@@ -4,3 +4,4 @@ Haltech Elite 1500
 e85 content analyzer
 flex tune
 FPR
+gtx3076r
